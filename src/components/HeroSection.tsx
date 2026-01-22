@@ -47,7 +47,7 @@ const HeroSection = () => {
           animationDelay: '0.6s'
         }}>
             <div className="text-center">
-              <div className="text-3xl sm:text-4xl font-bold text-gradient">+150</div>
+              <div className="text-3xl sm:text-4xl font-bold text-gradient">+50</div>
               <div className="text-sm text-muted-foreground mt-2">Empresas atendidas</div>
             </div>
             <div className="text-center">
